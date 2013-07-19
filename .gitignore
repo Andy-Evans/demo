@@ -7,13 +7,13 @@ obj/
 *.user
 *.dll
 *.pdb
-# NCrunch files
+# Tooling
 *.ncrunchsolution
+_ReSharper*/
+*.resharper
+*.StyleCop
 # Test coverage files in the TestResults
 *.coverage
 # Nuget packages dir. 
 packages/
-
-MusicManager.Test/TestResult.xml
-MusicManager.Test/MusicManager.Test.csproj.VisualState.xml
-TestResults\01638466-909e-4293-bba0-a5585e7fc95e*/
+[Tt]est[Rr]esult*

@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.20617.1 PREVIEW
-MinimumVisualStudioVersion = 10.0.40219.1
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorMVC", "CalculatorMVC\CalculatorMVC.csproj", "{2BE89372-35DD-4B72-8E17-C301DA3718A1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorMVP", "CalculatorMVP\CalculatorMVP.csproj", "{27F4235C-B901-47A1-9386-A904C321BFF6}"
